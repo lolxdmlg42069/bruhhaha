@@ -29,7 +29,7 @@ jobs:
           haxelib setup "%HAXELIB_ROOT%"
           haxelib run lime setup flixel
           haxelib run lime setup
-          haxelib run lime build html5
+          lime test html5 -debug
           
       - uses: actions/upload-artifact@v2
         with:
