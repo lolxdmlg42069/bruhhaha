@@ -41,7 +41,7 @@ jobs:
           haxelib install actuate
           haxelib install linc_luajit
           haxelib list
-          haxelib run lime build html5
+          lime test html5 -debug
           
       - uses: actions/upload-artifact@v2
         with:
