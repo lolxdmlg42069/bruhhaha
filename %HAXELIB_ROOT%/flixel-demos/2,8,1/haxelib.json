@@ -1,0 +1,11 @@
+{
+    "name": "flixel-demos",
+    "url": "https://github.com/HaxeFlixel/flixel-demos",
+    "license": "MIT",
+    "tags": ["game", "openfl", "flash", "neko", "cpp", "android", "ios", "demo", "cross"],
+    "description": "Demo Projects for HaxeFlixel",
+    "version": "2.8.1",
+    "releasenote": "PixelPerfectCollision improvements, FileBrowse for html5 and more",
+    "contributors": ["haxeflixel", "Gama11"],
+    "dependencies": {}
+}
